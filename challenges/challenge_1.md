@@ -52,7 +52,7 @@ pgrep -l nvidia-powerd
 
 **Screenshot:**
 
-![Serivce info](./assets/ch_1/screenshots/service_info.png)
+![Serivce info](./assets/ch_1/Screenshots/service_info.png)
 
 ---
 
@@ -82,7 +82,7 @@ inactive
 
 **Screenshot:**
 
-![Serivce stopped](./assets/ch_1/screenshots/service_stopped.png)\
+![Serivce stopped](./assets/ch_1/Screenshots/service_stopped.png)\
 
 
 ---
@@ -122,7 +122,7 @@ systemctl status nvidia-powerd
 
 **Screenshot:**
 
-![Serivce killed](./assets/ch_1/screenshots/service_killed.png)
+![Serivce killed](./assets/ch_1/Screenshots/service_killed.png)
 
 
 ## Results
