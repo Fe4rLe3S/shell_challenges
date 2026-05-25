@@ -82,7 +82,7 @@ inactive
 
 **Screenshot:**
 
-![Serivce stopped](./assets/ch_1/Screenshots/service_stopped.png)\
+![Serivce stopped](./assets/ch_1/Screenshots/service_stopped.png)
 
 
 ---
