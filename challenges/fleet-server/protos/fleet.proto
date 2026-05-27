@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package fleet;
+
+service Fleet {
+  rpc EnrollNode(EnrollRequest) returns (EnrollResponse);
+  rpc ListNodes(ListRequest) returns (ListResponse);
+}
+
+message Node {
+  string id = 1;
+  string name = 2;
+  string os_type = 3;
+}
+
+message EnrollRequest {
+  string name = 1;
+  string os_type = 2;
+}
+
+message EnrollResponse {
+  Node node = 1;
+}
+
+message ListRequest {}
+
+message ListResponse {
+  repeated Node nodes = 1;
+}
