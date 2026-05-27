@@ -2,7 +2,7 @@
 
 A minimal, scalable microservice template built with modern C++17 and gRPC. This project implements a central registry to enroll and list network nodes, serving as a clean architectural foundation for native C++ backend services.
 
-> The fleet-server is located here: `https://github.com/Fe4rLe3S/shell_challenges/tree/main/challenges/fleet-server`
+> The fleet-server is located here: `![fleet-server](https://github.com/Fe4rLe3S/shell_challenges/tree/main/challenges/fleet-server)`
 
 ## 📁 Architecture
 
